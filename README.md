@@ -1,6 +1,6 @@
 Capstone Project: My Data Analyst Journey
 
-Module 1: Data Collection
+Module 1: Data Collection/Web Scraping
 I gathered data on in-demand technology skills from various sources, including job postings, blog posts, and surveys.
 
 Module 2: Data Wrangling
